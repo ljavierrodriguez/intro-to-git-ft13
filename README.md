@@ -27,3 +27,17 @@
 ### Mostrar cambios guardados dentro del repositorio 
 
     $ git log
+
+
+### Agregar repositorio remoto a mi proyecto
+
+    $ git remote add origin https://....
+
+
+### Remover repositorio remoto del proyecto (ejemplo: git remote rm origin)
+
+    $ git remote rm <nombre-repositorio> 
+
+### Modificar repositorio remote del proyecto (ejemplo: git remote set-url origin https://....)
+
+    $ git remote set-url <nombre-repositorio> <url-repositorio>
