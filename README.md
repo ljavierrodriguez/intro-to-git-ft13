@@ -64,3 +64,12 @@
 ### unis los cambios de una rama(branch) a otra (ejemplo: git merge master dev)
 
     $ git merge <branch-A> <branch-B>
+
+
+### Enviar los cambios al repositorio remoto (ejemplo: git push origin master)
+
+    $ git push <remote> <branch>
+
+### Descargar los cambios del repositorio remoto (ejemplo git pull origin master)
+
+    $ git pull <remote> <branch>
