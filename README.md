@@ -59,3 +59,8 @@
 ### Cambiar o activar rama (branch) (ejemplo: git checkout dev)
 
     $ git checkout <branch>
+
+
+### unis los cambios de una rama(branch) a otra (ejemplo: git merge master dev)
+
+    $ git merge <branch-A> <branch-B>
