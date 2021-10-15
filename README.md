@@ -41,3 +41,12 @@
 ### Modificar repositorio remote del proyecto (ejemplo: git remote set-url origin https://....)
 
     $ git remote set-url <nombre-repositorio> <url-repositorio>
+
+### Enviar commits al repositorio remote (ejemplo: git push origin master)
+
+    $ git push <nombre-respositorio> <nombre-rama>
+
+
+### Listar ramas del proyecto (branch) 
+
+    $ git branch
