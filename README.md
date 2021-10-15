@@ -50,3 +50,12 @@
 ### Listar ramas del proyecto (branch) 
 
     $ git branch
+
+
+### crear una nueva rama (branch) (ejemplo: git branch dev)
+
+    $ git branch <branch>
+
+### Cambiar o activar rama (branch) (ejemplo: git checkout dev)
+
+    $ git checkout <branch>
